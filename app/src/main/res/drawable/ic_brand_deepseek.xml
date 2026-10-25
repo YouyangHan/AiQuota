@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- DeepSeek 品牌蓝圆角徽标 + 白色 D -->
+    <path
+        android:fillColor="#4D6BFE"
+        android:pathData="M7,1 L17,1 A6,6 0 0 1 23,7 L23,17 A6,6 0 0 1 17,23 L7,23 A6,6 0 0 1 1,17 L1,7 A6,6 0 0 1 7,1 Z" />
+    <path
+        android:pathData="M9.1,7.4 L9.1,16.6 M9.1,7.4 L11.6,7.4 A4.6,4.6 0 0 1 11.6,16.6 L9.1,16.6"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.9"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>

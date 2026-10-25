@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- 智谱 GLM 品牌蓝圆角徽标 + 白色 G -->
+    <path
+        android:fillColor="#3056E0"
+        android:pathData="M7,1 L17,1 A6,6 0 0 1 23,7 L23,17 A6,6 0 0 1 17,23 L7,23 A6,6 0 0 1 1,17 L1,7 A6,6 0 0 1 7,1 Z" />
+    <path
+        android:pathData="M15.2,8.3 A5,5 0 1 0 15.4,15.7 L15.4,12.6 L12.7,12.6"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.9"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>

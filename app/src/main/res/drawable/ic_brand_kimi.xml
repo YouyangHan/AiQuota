@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Kimi 黑色圆角徽标 + 白色 K -->
+    <path
+        android:fillColor="#17181C"
+        android:pathData="M7,1 L17,1 A6,6 0 0 1 23,7 L23,17 A6,6 0 0 1 17,23 L7,23 A6,6 0 0 1 1,17 L1,7 A6,6 0 0 1 7,1 Z" />
+    <path
+        android:pathData="M9.2,7.2 L9.2,16.8 M15.4,7.2 L9.9,12.4 M11.7,10.8 L15.8,16.8"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.9"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>
